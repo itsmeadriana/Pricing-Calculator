@@ -1,0 +1,1 @@
+calculator option per item, ability to add another item, or simply add up all items together on same reservation period.
