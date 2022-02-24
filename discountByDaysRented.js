@@ -1,7 +1,7 @@
 
 var discount = 0;
 
-function discountCasesByDaysRented(daysRented, perDiem) {
+function discountByDaysRented(daysRented, perDiem) {
     console.log('print');
     if (daysRented === 2) {
         let total = perDiem + perDiem * 0.75;
@@ -57,4 +57,4 @@ function discountCasesByDaysRented(daysRented, perDiem) {
     // }
 };
 
-module.exports = discountCasesByDaysRented;
+module.exports = discountByDaysRented;
